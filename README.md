@@ -1,2 +1,2 @@
 # recipe-app-api
-Recipe API project on django
+Recipe API project on django with londonapp
